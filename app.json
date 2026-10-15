@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "garrafasya-vkifqkgo23iyakcbexiy",
-    "slug": "garrafasya-vkifqkgo23iyakcbexiy",
+    "name": "doramas",
+    "slug": "doramas",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "garrafasyavkifqkgo23iyakcbexiy",
+    "scheme": "doramas",
     "userInterfaceStyle": "automatic",
     "ios": {
       "icon": "./assets/expo.icon"
